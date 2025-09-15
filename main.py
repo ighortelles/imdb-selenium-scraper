@@ -1,3 +1,4 @@
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
@@ -66,3 +67,8 @@ for s in series[:5]:
         }
         
         s['Atores'].append(dict_ator)
+
+with open('top_250_series.json', "w", encoding='utf8') as file:
+    json.dump(series, file, indent=4, ensure_ascii=False)
+
+print("OK | Arquivo json exportado com sucesso.")
