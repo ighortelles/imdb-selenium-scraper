@@ -1,0 +1,2382 @@
+[
+    {
+        "Título": "Breaking Bad",
+        "Ano de estreia": "2008",
+        "Ano de encerramento": "2013",
+        "Número Total de Episódios": "62",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.5",
+        "Link": "https://www.imdb.com/title/tt0903747/?ref_=chttvtp_t_1",
+        "Popularidade": "15",
+        "Atores": [
+            {
+                "Nome Ator": "Bryan Cranston",
+                "Personagem/Papel": "Walter White",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Aaron Paul",
+                "Personagem/Papel": "Jesse Pinkman",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Anna Gunn",
+                "Personagem/Papel": "Skyler White",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Betsy Brandt",
+                "Personagem/Papel": "Marie Schrader",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "RJ Mitte",
+                "Personagem/Papel": "Walter White, Jr.",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Dean Norris",
+                "Personagem/Papel": "Hank Schrader",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Bob Odenkirk",
+                "Personagem/Papel": "Saul Goodman",
+                "Quantidade de Episódios": "43"
+            },
+            {
+                "Nome Ator": "Steven Michael Quezada",
+                "Personagem/Papel": "Steven Gomez",
+                "Quantidade de Episódios": "34"
+            },
+            {
+                "Nome Ator": "Jonathan Banks",
+                "Personagem/Papel": "Mike Ehrmantraut",
+                "Quantidade de Episódios": "28"
+            },
+            {
+                "Nome Ator": "Giancarlo Esposito",
+                "Personagem/Papel": "Gus Fring",
+                "Quantidade de Episódios": "26"
+            },
+            {
+                "Nome Ator": "Charles Baker",
+                "Personagem/Papel": "Skinny Pete",
+                "Quantidade de Episódios": "15"
+            },
+            {
+                "Nome Ator": "Jesse Plemons",
+                "Personagem/Papel": "Todd",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Christopher Cousins",
+                "Personagem/Papel": "Ted Beneke",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Laura Fraser",
+                "Personagem/Papel": "Lydia Rodarte-Quayle",
+                "Quantidade de Episódios": "12"
+            },
+            {
+                "Nome Ator": "Matt Jones",
+                "Personagem/Papel": "Badger",
+                "Quantidade de Episódios": "12"
+            },
+            {
+                "Nome Ator": "Michael Shamus Wiles",
+                "Personagem/Papel": "ASAC George Merkert",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Lavell Crawford",
+                "Personagem/Papel": "Huell",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Ray Campbell",
+                "Personagem/Papel": "Tyrus Kitt",
+                "Quantidade de Episódios": "10"
+            }
+        ]
+    },
+    {
+        "Título": "Planet Earth II",
+        "Ano de estreia": "2016",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "6",
+        "Classificação indicativa": "TV-G",
+        "Nota do IMDB": "9.4",
+        "Link": "https://www.imdb.com/title/tt5491994/?ref_=chttvtp_t_2",
+        "Popularidade": "588",
+        "Atores": [
+            {
+                "Nome Ator": "David Attenborough",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "Gordon Buchanan",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Chadden Hunter",
+                "Personagem/Papel": "Self - Producer",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Emma Napper",
+                "Personagem/Papel": "Self - Producer",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Toby Nowlan",
+                "Personagem/Papel": "Self - Researcher",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Thomas Crowley",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Mark MacEwen",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Michael J. Sanderson",
+                "Personagem/Papel": "Self - Drone Operator",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Barrie Britton",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Sandesh Kadur",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Elizabeth White",
+                "Personagem/Papel": "Self - Producer",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Fredi Devas",
+                "Personagem/Papel": "Self - Producer",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Juarez Sena Feitoza",
+                "Personagem/Papel": "Self - Field Assistant",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Ed Charles",
+                "Personagem/Papel": "Self - Producer",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Jerome Poncet",
+                "Personagem/Papel": "Self - Antarctic expert",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Max Hug Williams",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Pete McCowen",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Rob Drewett",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            }
+        ]
+    },
+    {
+        "Título": "Planet Earth",
+        "Ano de estreia": "2006",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "11",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.4",
+        "Link": "https://www.imdb.com/title/tt0795176/?ref_=chttvtp_t_3",
+        "Popularidade": "914",
+        "Atores": [
+            {
+                "Nome Ator": "Sigourney Weaver",
+                "Personagem/Papel": "Narrator - US Version",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "David Attenborough",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Nikolay Drozdov",
+                "Personagem/Papel": "Narrator",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Thomas Anguti Johnston",
+                "Personagem/Papel": "Inuktitut Narrator",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Sanae Ueda",
+                "Personagem/Papel": "Self - Narrator Japan",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Huw Cordey",
+                "Personagem/Papel": "Self - Producer…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Doug Allan",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Mark Linfield",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Paul Stewart",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Chadden Hunter",
+                "Personagem/Papel": "Self - Field Assistant",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Jeff Wilson",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Doug Anderson",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Michael Kelem",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Justine Evans",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Jonathan Keeling",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Rick Rosenthal",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Simon King",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Warwick Sloss",
+                "Personagem/Papel": "Self - Cameraman",
+                "Quantidade de Episódios": "1"
+            }
+        ]
+    },
+    {
+        "Título": "Band of Brothers",
+        "Ano de estreia": "2001",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "10",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.4",
+        "Link": "https://www.imdb.com/title/tt0185906/?ref_=chttvtp_t_4",
+        "Popularidade": "134",
+        "Atores": [
+            {
+                "Nome Ator": "Scott Grimes",
+                "Personagem/Papel": "Donald G. Malarkey",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Damian Lewis",
+                "Personagem/Papel": "Richard D. Winters",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Ron Livingston",
+                "Personagem/Papel": "Lewis Nixon",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Shane Taylor",
+                "Personagem/Papel": "Eugene G. Roe",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Donnie Wahlberg",
+                "Personagem/Papel": "C. Carwood Lipton",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Peter Youngblood Hills",
+                "Personagem/Papel": "Darrell C. (Shifty) Powers",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Matthew Leitch",
+                "Personagem/Papel": "Floyd M. (Tab) Talbert",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Nicholas Aaron",
+                "Personagem/Papel": "Robert E. (Popeye) Wynn",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Philip Barantini",
+                "Personagem/Papel": "Wayne A. (Skinny) Sisk",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Michael Cudlitz",
+                "Personagem/Papel": "Denver (Bull) Randleman",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Dexter Fletcher",
+                "Personagem/Papel": "John W. Martin",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Rick Gomez",
+                "Personagem/Papel": "George Luz",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "James Madio",
+                "Personagem/Papel": "Frank J. Perconte",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Ross McCall",
+                "Personagem/Papel": "Joseph D. Liebgott",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Doug Allen",
+                "Personagem/Papel": "Alton M. More",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "George Calil",
+                "Personagem/Papel": "James H. (Mo) Alley Jr.",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Nolan Hemmings",
+                "Personagem/Papel": "Charles E. (Chuck) Grant",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Robin Laing",
+                "Personagem/Papel": "Edward J. (Babe) Heffron",
+                "Quantidade de Episódios": "8"
+            }
+        ]
+    },
+    {
+        "Título": "Chernobyl",
+        "Ano de estreia": "2019",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "5",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt7366338/?ref_=chttvtp_t_5",
+        "Popularidade": "115",
+        "Atores": [
+            {
+                "Nome Ator": "Jessie Buckley",
+                "Personagem/Papel": "Lyudmilla Ignatenko",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Jared Harris",
+                "Personagem/Papel": "Valery Legasov",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Stellan Skarsgård",
+                "Personagem/Papel": "Boris Shcherbina",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Adam Nagaitis",
+                "Personagem/Papel": "Vasily Ignatenko",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Emily Watson",
+                "Personagem/Papel": "Ulana Khomyuk",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Paul Ritter",
+                "Personagem/Papel": "Anatoly Dyatlov",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Robert Emms",
+                "Personagem/Papel": "Leonid Toptunov",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Sam Troughton",
+                "Personagem/Papel": "Alexandr Akimov",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Karl Davies",
+                "Personagem/Papel": "Viktor Proskuryakov",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Michael Socha",
+                "Personagem/Papel": "Mikhail",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Laura Elphinstone",
+                "Personagem/Papel": "Oksana",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Jan Ricica",
+                "Personagem/Papel": "Oksana's Kid",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Adrian Rawlins",
+                "Personagem/Papel": "Nikolai Fomin",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Alan Williams",
+                "Personagem/Papel": "KGB Chairman Charkov",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Con O'Neill",
+                "Personagem/Papel": "Viktor Bryukhanov",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Douggie McMeekin",
+                "Personagem/Papel": "Yuvchenko",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Nadia Clifford",
+                "Personagem/Papel": "Dr. Svetlana Zinchenko",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "David Dencik",
+                "Personagem/Papel": "Mikhail Gorbachev",
+                "Quantidade de Episódios": "2"
+            }
+        ]
+    },
+    {
+        "Título": "The Wire",
+        "Ano de estreia": "2002",
+        "Ano de encerramento": "2008",
+        "Número Total de Episódios": "60",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt0306414/?ref_=chttvtp_t_6",
+        "Popularidade": "68",
+        "Atores": [
+            {
+                "Nome Ator": "Dominic West",
+                "Personagem/Papel": "Detective James 'Jimmy' McNulty…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Lance Reddick",
+                "Personagem/Papel": "Lieutenant Cedric Daniels…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Sonja Sohn",
+                "Personagem/Papel": "Detective Shakima 'Kima' Greggs",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Wendell Pierce",
+                "Personagem/Papel": "Detective William 'Bunk' Moreland",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "John Doman",
+                "Personagem/Papel": "Deputy Commissioner for Operations William A. Rawls",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Deirdre Lovejoy",
+                "Personagem/Papel": "A.S.A. Rhonda Pearlman",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Seth Gilliam",
+                "Personagem/Papel": "Sergeant Ellis Carver…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Domenick Lombardozzi",
+                "Personagem/Papel": "Detective Thomas 'Herc' Hauk…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Clarke Peters",
+                "Personagem/Papel": "Detective Lester Freamon",
+                "Quantidade de Episódios": "59"
+            },
+            {
+                "Nome Ator": "Andre Royo",
+                "Personagem/Papel": "Reginald 'Bubbles' Cousins",
+                "Quantidade de Episódios": "52"
+            },
+            {
+                "Nome Ator": "Michael Kenneth Williams",
+                "Personagem/Papel": "Omar Little",
+                "Quantidade de Episódios": "51"
+            },
+            {
+                "Nome Ator": "Jim True-Frost",
+                "Personagem/Papel": "Detective Roland 'Prez' Pryzbylewski",
+                "Quantidade de Episódios": "50"
+            },
+            {
+                "Nome Ator": "Frankie Faison",
+                "Personagem/Papel": "Acting Commissioner Ervin H. Burrell",
+                "Quantidade de Episódios": "47"
+            },
+            {
+                "Nome Ator": "Corey Parker Robinson",
+                "Personagem/Papel": "Detective Leander Sydnor",
+                "Quantidade de Episódios": "45"
+            },
+            {
+                "Nome Ator": "Delaney Williams",
+                "Personagem/Papel": "Sergeant Jay Landsman",
+                "Quantidade de Episódios": "45"
+            },
+            {
+                "Nome Ator": "J.D. Williams",
+                "Personagem/Papel": "Preston 'Bodie' Broadus",
+                "Quantidade de Episódios": "42"
+            },
+            {
+                "Nome Ator": "Wood Harris",
+                "Personagem/Papel": "Avon Barksdale",
+                "Quantidade de Episódios": "39"
+            },
+            {
+                "Nome Ator": "Idris Elba",
+                "Personagem/Papel": "Russell 'Stringer' Bell",
+                "Quantidade de Episódios": "37"
+            }
+        ]
+    },
+    {
+        "Título": "Avatar: The Last Airbender",
+        "Ano de estreia": "2005",
+        "Ano de encerramento": "2008",
+        "Número Total de Episódios": "62",
+        "Classificação indicativa": "TV-Y7-FV",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt0417299/?ref_=chttvtp_t_7",
+        "Popularidade": "252",
+        "Atores": [
+            {
+                "Nome Ator": "Dee Bradley Baker",
+                "Personagem/Papel": "Appa…",
+                "Quantidade de Episódios": "61"
+            },
+            {
+                "Nome Ator": "Zach Tyler Eisen",
+                "Personagem/Papel": "Aang…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Mae Whitman",
+                "Personagem/Papel": "Katara…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Jack De Sena",
+                "Personagem/Papel": "Sokka…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Dante Basco",
+                "Personagem/Papel": "Prince Zuko…",
+                "Quantidade de Episódios": "50"
+            },
+            {
+                "Nome Ator": "Michaela Jill Murphy",
+                "Personagem/Papel": "Toph…",
+                "Quantidade de Episódios": "37"
+            },
+            {
+                "Nome Ator": "Mako",
+                "Personagem/Papel": "Uncle…",
+                "Quantidade de Episódios": "30"
+            },
+            {
+                "Nome Ator": "Grey DeLisle",
+                "Personagem/Papel": "Azula…",
+                "Quantidade de Episódios": "23"
+            },
+            {
+                "Nome Ator": "André Sogliuzzo",
+                "Personagem/Papel": "Hakoda…",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Cricket Leigh",
+                "Personagem/Papel": "Mai",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Mark Hamill",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Jennie Kwan",
+                "Personagem/Papel": "Suki…",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Olivia Hack",
+                "Personagem/Papel": "Ty Lee…",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Greg Baldwin",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Jim Meskimen",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "James Garrett",
+                "Personagem/Papel": "Avatar Roku…",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Jason Isaacs",
+                "Personagem/Papel": "Commander Zhao…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "James Sie",
+                "Personagem/Papel": "Cabbage Merchant…",
+                "Quantidade de Episódios": "7"
+            }
+        ]
+    },
+    {
+        "Título": "The Sopranos",
+        "Ano de estreia": "1999",
+        "Ano de encerramento": "2007",
+        "Número Total de Episódios": "86",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt0141842/?ref_=chttvtp_t_8",
+        "Popularidade": "33",
+        "Atores": [
+            {
+                "Nome Ator": "James Gandolfini",
+                "Personagem/Papel": "Tony Soprano",
+                "Quantidade de Episódios": "86"
+            },
+            {
+                "Nome Ator": "Lorraine Bracco",
+                "Personagem/Papel": "Dr. Jennifer Melfi",
+                "Quantidade de Episódios": "73"
+            },
+            {
+                "Nome Ator": "Edie Falco",
+                "Personagem/Papel": "Carmela Soprano",
+                "Quantidade de Episódios": "85"
+            },
+            {
+                "Nome Ator": "Michael Imperioli",
+                "Personagem/Papel": "Christopher Moltisanti",
+                "Quantidade de Episódios": "84"
+            },
+            {
+                "Nome Ator": "Steven Van Zandt",
+                "Personagem/Papel": "Silvio Dante",
+                "Quantidade de Episódios": "82"
+            },
+            {
+                "Nome Ator": "Robert Iler",
+                "Personagem/Papel": "A.J. Soprano",
+                "Quantidade de Episódios": "79"
+            },
+            {
+                "Nome Ator": "Tony Sirico",
+                "Personagem/Papel": "Paulie 'Walnuts' Gualtieri",
+                "Quantidade de Episódios": "78"
+            },
+            {
+                "Nome Ator": "Jamie-Lynn Sigler",
+                "Personagem/Papel": "Meadow Soprano",
+                "Quantidade de Episódios": "75"
+            },
+            {
+                "Nome Ator": "Dominic Chianese",
+                "Personagem/Papel": "Junior Soprano",
+                "Quantidade de Episódios": "59"
+            },
+            {
+                "Nome Ator": "Aida Turturro",
+                "Personagem/Papel": "Janice Soprano…",
+                "Quantidade de Episódios": "53"
+            },
+            {
+                "Nome Ator": "Steve Schirripa",
+                "Personagem/Papel": "Bobby 'Bacala' Baccalieri",
+                "Quantidade de Episódios": "53"
+            },
+            {
+                "Nome Ator": "Drea de Matteo",
+                "Personagem/Papel": "Adriana La Cerva",
+                "Quantidade de Episódios": "51"
+            },
+            {
+                "Nome Ator": "Dan Grimaldi",
+                "Personagem/Papel": "Patsy Parisi…",
+                "Quantidade de Episódios": "47"
+            },
+            {
+                "Nome Ator": "Joseph R. Gannascoli",
+                "Personagem/Papel": "Vito Spatafore…",
+                "Quantidade de Episódios": "39"
+            },
+            {
+                "Nome Ator": "Sharon Angela",
+                "Personagem/Papel": "Rosalie Aprile",
+                "Quantidade de Episódios": "37"
+            },
+            {
+                "Nome Ator": "John Ventimiglia",
+                "Personagem/Papel": "Artie Bucco",
+                "Quantidade de Episódios": "36"
+            },
+            {
+                "Nome Ator": "Vincent Curatola",
+                "Personagem/Papel": "Johnny 'Sack' Sacramoni",
+                "Quantidade de Episódios": "33"
+            },
+            {
+                "Nome Ator": "Vincent Pastore",
+                "Personagem/Papel": "Salvatore 'Big Pussy' Bonpensiero",
+                "Quantidade de Episódios": "30"
+            }
+        ]
+    },
+    {
+        "Título": "Blue Planet II",
+        "Ano de estreia": "2017",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "7",
+        "Classificação indicativa": "TV-G",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt6769208/?ref_=chttvtp_t_9",
+        "Popularidade": "1,468",
+        "Atores": [
+            {
+                "Nome Ator": "David Attenborough",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Peter Drost",
+                "Personagem/Papel": "Narrator: The Netherlands",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Roger Munns",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Roger Horrocks",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            }
+        ]
+    },
+    {
+        "Título": "Cosmos: A Spacetime Odyssey",
+        "Ano de estreia": "2014",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "13",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt2395695/?ref_=chttvtp_t_10",
+        "Popularidade": "784",
+        "Atores": [
+            {
+                "Nome Ator": "Neil deGrasse Tyson",
+                "Personagem/Papel": "Self - Host",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Christopher Emerson",
+                "Personagem/Papel": "Acolyte",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Keythe Farley",
+                "Personagem/Papel": null,
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Piotr Michael",
+                "Personagem/Papel": "Edmund Muskie…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Enn Reitel",
+                "Personagem/Papel": "Henry Norris Russell",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Stoney Emshwiller",
+                "Personagem/Papel": "Guard",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "André Sogliuzzo",
+                "Personagem/Papel": "Christopher Wren, Weichelberger",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Amanda Seyfried",
+                "Personagem/Papel": "Marie Tharp",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Kirsten Dunst",
+                "Personagem/Papel": "Cecilia Payne",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Phil LaMarr",
+                "Personagem/Papel": null,
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Paul Sorvino",
+                "Personagem/Papel": "Augustin Mouchot",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Larry Cedar",
+                "Personagem/Papel": null,
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Christiane Amanpour",
+                "Personagem/Papel": "Enheduanna",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Seth MacFarlane",
+                "Personagem/Papel": "Giordano Bruno",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Fred Tatasciore",
+                "Personagem/Papel": "Democritus",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Martin Jarvis",
+                "Personagem/Papel": "Sir Humphry Davy",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Glenn Steinbaum",
+                "Personagem/Papel": "Bruce Heezen",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Maria Frucci",
+                "Personagem/Papel": null,
+                "Quantidade de Episódios": null
+            }
+        ]
+    },
+    {
+        "Título": "Cosmos",
+        "Ano de estreia": "1980",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "13",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt0081846/?ref_=chttvtp_t_11",
+        "Popularidade": "1,282",
+        "Atores": [
+            {
+                "Nome Ator": "Carl Sagan",
+                "Personagem/Papel": "Self - Host",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Jaromír Hanzlík",
+                "Personagem/Papel": "Johannes Kepler",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Jonathan Fahn",
+                "Personagem/Papel": "Young Champollion…",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Bob Hevelone",
+                "Personagem/Papel": "Fourier",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Bill Grant",
+                "Personagem/Papel": "Barney Hill",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Jean Charney",
+                "Personagem/Papel": "Betty Hill",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Ronald A. Hilbert",
+                "Personagem/Papel": "Tinget Indian",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Alan Belod",
+                "Personagem/Papel": "Jean-Francois Champollion",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Larry Soderblom",
+                "Personagem/Papel": "Self - Voyager Imaging Team",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Linda Morabito",
+                "Personagem/Papel": "Self - Voyager Navigation Team",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Cecilia White",
+                "Personagem/Papel": "Tinget Indian",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Arthur 'Lonne' Lane",
+                "Personagem/Papel": "Self - Deputy Project Scientist",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Victor C. John",
+                "Personagem/Papel": "Tinget Indian",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Josef Vinklár",
+                "Personagem/Papel": "Tycho Brahe",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Dana Hlavácová",
+                "Personagem/Papel": "Johannes Kepler's wife",
+                "Quantidade de Episódios": null
+            }
+        ]
+    },
+    {
+        "Título": "Our Planet",
+        "Ano de estreia": "2019",
+        "Ano de encerramento": "2023",
+        "Número Total de Episódios": "12",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt9253866/?ref_=chttvtp_t_12",
+        "Popularidade": "1,285",
+        "Atores": [
+            {
+                "Nome Ator": "David Attenborough",
+                "Personagem/Papel": "Self - Narrator…",
+                "Quantidade de Episódios": "12"
+            }
+        ]
+    },
+    {
+        "Título": "Game of Thrones",
+        "Ano de estreia": "2011",
+        "Ano de encerramento": "2019",
+        "Número Total de Episódios": "74",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt0944947/?ref_=chttvtp_t_13",
+        "Popularidade": "13",
+        "Atores": [
+            {
+                "Nome Ator": "Emilia Clarke",
+                "Personagem/Papel": "Daenerys Targaryen",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Peter Dinklage",
+                "Personagem/Papel": "Tyrion Lannister",
+                "Quantidade de Episódios": "68"
+            },
+            {
+                "Nome Ator": "Kit Harington",
+                "Personagem/Papel": "Jon Snow",
+                "Quantidade de Episódios": "63"
+            },
+            {
+                "Nome Ator": "Lena Headey",
+                "Personagem/Papel": "Cersei Lannister",
+                "Quantidade de Episódios": "63"
+            },
+            {
+                "Nome Ator": "Sophie Turner",
+                "Personagem/Papel": "Sansa Stark",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Maisie Williams",
+                "Personagem/Papel": "Arya Stark",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Nikolaj Coster-Waldau",
+                "Personagem/Papel": "Jaime Lannister",
+                "Quantidade de Episódios": "56"
+            },
+            {
+                "Nome Ator": "Iain Glen",
+                "Personagem/Papel": "Jorah Mormont",
+                "Quantidade de Episódios": "53"
+            },
+            {
+                "Nome Ator": "John Bradley",
+                "Personagem/Papel": "Samwell Tarly",
+                "Quantidade de Episódios": "48"
+            },
+            {
+                "Nome Ator": "Alfie Allen",
+                "Personagem/Papel": "Theon Greyjoy",
+                "Quantidade de Episódios": "48"
+            },
+            {
+                "Nome Ator": "Conleth Hill",
+                "Personagem/Papel": "Lord Varys",
+                "Quantidade de Episódios": "46"
+            },
+            {
+                "Nome Ator": "Liam Cunningham",
+                "Personagem/Papel": "Davos Seaworth",
+                "Quantidade de Episódios": "42"
+            },
+            {
+                "Nome Ator": "Gwendoline Christie",
+                "Personagem/Papel": "Brienne of Tarth",
+                "Quantidade de Episódios": "42"
+            },
+            {
+                "Nome Ator": "Aidan Gillen",
+                "Personagem/Papel": "Petyr 'Littlefinger' Baelish",
+                "Quantidade de Episódios": "41"
+            },
+            {
+                "Nome Ator": "Isaac Hempstead Wright",
+                "Personagem/Papel": "Bran Stark",
+                "Quantidade de Episódios": "41"
+            },
+            {
+                "Nome Ator": "Rory McCann",
+                "Personagem/Papel": "Sandor 'The Hound' Clegane",
+                "Quantidade de Episódios": "39"
+            },
+            {
+                "Nome Ator": "Nathalie Emmanuel",
+                "Personagem/Papel": "Missandei",
+                "Quantidade de Episódios": "38"
+            },
+            {
+                "Nome Ator": "Jerome Flynn",
+                "Personagem/Papel": "Bronn",
+                "Quantidade de Episódios": "37"
+            }
+        ]
+    },
+    {
+        "Título": "Bluey",
+        "Ano de estreia": "2018",
+        "Ano de encerramento": "",
+        "Número Total de Episódios": "195",
+        "Classificação indicativa": "TV-Y",
+        "Nota do IMDB": "9.3",
+        "Link": "https://www.imdb.com/title/tt7678620/?ref_=chttvtp_t_14",
+        "Popularidade": "446",
+        "Atores": [
+            {
+                "Nome Ator": "David McCormack",
+                "Personagem/Papel": "Dad",
+                "Quantidade de Episódios": "137"
+            },
+            {
+                "Nome Ator": "Melanie Zanetti",
+                "Personagem/Papel": "Mum",
+                "Quantidade de Episódios": "127"
+            },
+            {
+                "Nome Ator": "Brad Elliott",
+                "Personagem/Papel": "Lucky's Dad",
+                "Quantidade de Episódios": "18"
+            },
+            {
+                "Nome Ator": "Dan Brumm",
+                "Personagem/Papel": "Uncle Stripe",
+                "Quantidade de Episódios": "17"
+            },
+            {
+                "Nome Ator": "Myf Warhurst",
+                "Personagem/Papel": "Aunt Trixie…",
+                "Quantidade de Episódios": "12"
+            },
+            {
+                "Nome Ator": "Meg Washington",
+                "Personagem/Papel": "Calypso",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Chris Brumm",
+                "Personagem/Papel": "Nana",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Daley Pearson",
+                "Personagem/Papel": "Rocko…",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Frederique Sims",
+                "Personagem/Papel": "Coco",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Emily Taheny",
+                "Personagem/Papel": "Wendy",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Richard Jeffery",
+                "Personagem/Papel": "Mackenzie's Dad",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Leigh Sales",
+                "Personagem/Papel": "Coco's Mum…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Francis Stanton",
+                "Personagem/Papel": "Chloe's Dad",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Kelly Butler",
+                "Personagem/Papel": "Doreen",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Hamish Blake",
+                "Personagem/Papel": "Jack's Dad…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Anthony Field",
+                "Personagem/Papel": "Rusty's Dad…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Patrick Brammall",
+                "Personagem/Papel": "Uncle Rad",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Claudia O'Doherty",
+                "Personagem/Papel": "Frisky…",
+                "Quantidade de Episódios": "3"
+            }
+        ]
+    },
+    {
+        "Título": "The World at War",
+        "Ano de estreia": "1973",
+        "Ano de encerramento": "1974",
+        "Número Total de Episódios": "26",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt0071075/?ref_=chttvtp_t_15",
+        "Popularidade": "1,132",
+        "Atores": [
+            {
+                "Nome Ator": "Laurence Olivier",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "26"
+            },
+            {
+                "Nome Ator": "Averell Harriman",
+                "Personagem/Papel": "Self - Roosevelt's Roving Ambassador",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Anthony Eden",
+                "Personagem/Papel": "Foreign Secretary 1940…",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Albert Speer",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Siegfried Westphal",
+                "Personagem/Papel": "Self - Afika Korps - Rommel's Chief of Staff",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Lawrence Durrell",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Wynford Vaughan-Thomas",
+                "Personagem/Papel": "Self - War Correspondent",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Louis Mountbatten",
+                "Personagem/Papel": "Self - Chief of Combined Operations (1942-1943)",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "J. Lawton Collins",
+                "Personagem/Papel": "Self - Commanding General, 25th Infantry Division at Guadalcanal",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Toshikazu Kase",
+                "Personagem/Papel": "Self - Cabinet Secretariat…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Hans Kehrl",
+                "Personagem/Papel": "Ministry of Armaments 1943-45…",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Kenneth Strong",
+                "Personagem/Papel": "Self - Eisenhower's Intelligence Chief",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Kay Summersby",
+                "Personagem/Papel": "Self - Eisenhower's Driver…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Walter Warlimont",
+                "Personagem/Papel": "Self - German High Command",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Francis de Guingand",
+                "Personagem/Papel": "Montgomery's Chief of Staff…",
+                "Quantidade de Episódios": null
+            },
+            {
+                "Nome Ator": "Christabel Bielenberg",
+                "Personagem/Papel": "Self - Married to German…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "J.R. Colville",
+                "Personagem/Papel": "Self - Chamberlain's Private Secretary",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Ursula Gray",
+                "Personagem/Papel": "Self - Dresden Civilian…",
+                "Quantidade de Episódios": "2"
+            }
+        ]
+    },
+    {
+        "Título": "Fullmetal Alchemist: Brotherhood",
+        "Ano de estreia": "2009",
+        "Ano de encerramento": "2010",
+        "Número Total de Episódios": "68",
+        "Classificação indicativa": "TV-14",
+        "Nota do IMDB": "9.1",
+        "Link": "https://www.imdb.com/title/tt1355642/?ref_=chttvtp_t_16",
+        "Popularidade": "301",
+        "Atores": [
+            {
+                "Nome Ator": "Kent Williams",
+                "Personagem/Papel": "Narrator…",
+                "Quantidade de Episódios": "64"
+            },
+            {
+                "Nome Ator": "Iemasa Kayumi",
+                "Personagem/Papel": "Narrator…",
+                "Quantidade de Episódios": "64"
+            },
+            {
+                "Nome Ator": "Vic Mignogna",
+                "Personagem/Papel": "Edward Elric…",
+                "Quantidade de Episódios": "63"
+            },
+            {
+                "Nome Ator": "Romi Park",
+                "Personagem/Papel": "Edward Elric…",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Muriel Hofmann",
+                "Personagem/Papel": "Edward Elric (Animax Asia dub)",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Lili Troncale",
+                "Personagem/Papel": "Alphonse Elric (Animax Asia dub)",
+                "Quantidade de Episódios": "62"
+            },
+            {
+                "Nome Ator": "Rie Kugimiya",
+                "Personagem/Papel": "Alphonse Elric…",
+                "Quantidade de Episódios": "60"
+            },
+            {
+                "Nome Ator": "Maxey Whitehead",
+                "Personagem/Papel": "Alphonse Elric…",
+                "Quantidade de Episódios": "58"
+            },
+            {
+                "Nome Ator": "Travis Willingham",
+                "Personagem/Papel": "Roy Mustang",
+                "Quantidade de Episódios": "47"
+            },
+            {
+                "Nome Ator": "Shin'ichirô Miki",
+                "Personagem/Papel": "Roy Mustang…",
+                "Quantidade de Episódios": "47"
+            },
+            {
+                "Nome Ator": "Colleen Clinkenbeard",
+                "Personagem/Papel": "Riza Hawkeye…",
+                "Quantidade de Episódios": "44"
+            },
+            {
+                "Nome Ator": "Fumiko Orikasa",
+                "Personagem/Papel": "Riza Hawkeye",
+                "Quantidade de Episódios": "40"
+            },
+            {
+                "Nome Ator": "J. Michael Tatum",
+                "Personagem/Papel": "Scar…",
+                "Quantidade de Episódios": "39"
+            },
+            {
+                "Nome Ator": "Kenta Miyake",
+                "Personagem/Papel": "Scar…",
+                "Quantidade de Episódios": "39"
+            },
+            {
+                "Nome Ator": "Yûki Hayashi",
+                "Personagem/Papel": "Denny Brosh…",
+                "Quantidade de Episódios": "36"
+            },
+            {
+                "Nome Ator": "Caitlin Glass",
+                "Personagem/Papel": "Winry Rockbell…",
+                "Quantidade de Episódios": "31"
+            },
+            {
+                "Nome Ator": "Monica Rial",
+                "Personagem/Papel": "May Chang…",
+                "Quantidade de Episódios": "30"
+            },
+            {
+                "Nome Ator": "Megumi Takamoto",
+                "Personagem/Papel": "Winry Rockbell",
+                "Quantidade de Episódios": "30"
+            }
+        ]
+    },
+    {
+        "Título": "Life",
+        "Ano de estreia": "2009",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "11",
+        "Classificação indicativa": "TV-G",
+        "Nota do IMDB": "9.1",
+        "Link": "https://www.imdb.com/title/tt1533395/?ref_=chttvtp_t_17",
+        "Popularidade": "953",
+        "Atores": [
+            {
+                "Nome Ator": "Oprah Winfrey",
+                "Personagem/Papel": "Self - Narrator (U.S. Broadcast)…",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "David Attenborough",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Doug Allan",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Roger Munns",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Justine Evans",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Barrie Britton",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Jonathan Smith",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Michael Pitts",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Kevin Flay",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Nick Guy",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Stephen Lyle",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Matthew Swarbrick",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Neil Lucas",
+                "Personagem/Papel": "Self…",
+                "Quantidade de Episódios": "2"
+            },
+            {
+                "Nome Ator": "Doug Anderson",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Simon Blakeney",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Adam Chapman",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "David Baillie",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            },
+            {
+                "Nome Ator": "Martha Holmes",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "1"
+            }
+        ]
+    },
+    {
+        "Título": "Attack on Titan",
+        "Ano de estreia": "2013",
+        "Ano de encerramento": "2023",
+        "Número Total de Episódios": "98",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.1",
+        "Link": "https://www.imdb.com/title/tt2560140/?ref_=chttvtp_t_18",
+        "Popularidade": "40",
+        "Atores": [
+            {
+                "Nome Ator": "Jessie James Grelle",
+                "Personagem/Papel": "Armin Arlert…",
+                "Quantidade de Episódios": "93"
+            },
+            {
+                "Nome Ator": "Bryce Papenbrook",
+                "Personagem/Papel": "Eren Jaeger…",
+                "Quantidade de Episódios": "85"
+            },
+            {
+                "Nome Ator": "Trina Nishimura",
+                "Personagem/Papel": "Mikasa Ackermann…",
+                "Quantidade de Episódios": "83"
+            },
+            {
+                "Nome Ator": "Yûki Kaji",
+                "Personagem/Papel": "Eren Yeager",
+                "Quantidade de Episódios": "82"
+            },
+            {
+                "Nome Ator": "Yui Ishikawa",
+                "Personagem/Papel": "Mikasa Ackerman",
+                "Quantidade de Episódios": "82"
+            },
+            {
+                "Nome Ator": "Marina Inoue",
+                "Personagem/Papel": "Armin Arlert…",
+                "Quantidade de Episódios": "82"
+            },
+            {
+                "Nome Ator": "Kishô Taniyama",
+                "Personagem/Papel": "Jean Kirstein",
+                "Quantidade de Episódios": "68"
+            },
+            {
+                "Nome Ator": "Clifford Chapin",
+                "Personagem/Papel": "Conny Springer…",
+                "Quantidade de Episódios": "68"
+            },
+            {
+                "Nome Ator": "Hiro Shimono",
+                "Personagem/Papel": "Connie Springer",
+                "Quantidade de Episódios": "67"
+            },
+            {
+                "Nome Ator": "Mike McFarland",
+                "Personagem/Papel": "Jean Kirschtein…",
+                "Quantidade de Episódios": "67"
+            },
+            {
+                "Nome Ator": "Romi Park",
+                "Personagem/Papel": "Hange Zoe",
+                "Quantidade de Episódios": "56"
+            },
+            {
+                "Nome Ator": "Matthew Mercer",
+                "Personagem/Papel": "Levi",
+                "Quantidade de Episódios": "55"
+            },
+            {
+                "Nome Ator": "Jessica Calvello",
+                "Personagem/Papel": "Hange Zoe",
+                "Quantidade de Episódios": "55"
+            },
+            {
+                "Nome Ator": "Hiroshi Kamiya",
+                "Personagem/Papel": "Levi",
+                "Quantidade de Episódios": "53"
+            },
+            {
+                "Nome Ator": "Yoshimasa Hosoya",
+                "Personagem/Papel": "Reiner Braun",
+                "Quantidade de Episódios": "49"
+            },
+            {
+                "Nome Ator": "Robert McCollum",
+                "Personagem/Papel": "Reiner Braun…",
+                "Quantidade de Episódios": "48"
+            },
+            {
+                "Nome Ator": "Yû Kobayashi",
+                "Personagem/Papel": "Sasha Braus",
+                "Quantidade de Episódios": "47"
+            },
+            {
+                "Nome Ator": "Ashly Burch",
+                "Personagem/Papel": "Sasha Braus",
+                "Quantidade de Episódios": "44"
+            }
+        ]
+    },
+    {
+        "Título": "The Last Dance",
+        "Ano de estreia": "2020",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "10",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.0",
+        "Link": "https://www.imdb.com/title/tt8420184/?ref_=chttvtp_t_19",
+        "Popularidade": "808",
+        "Atores": [
+            {
+                "Nome Ator": "Michael Jordan",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Phil Jackson",
+                "Personagem/Papel": "Self - Bulls Head Coach 1989 - 1998",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Scottie Pippen",
+                "Personagem/Papel": "Self - Bulls Forward 1987 - 1998",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "David Aldridge",
+                "Personagem/Papel": "Self - ESPN Reporter 1996 - 2004",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Michael Wilbon",
+                "Personagem/Papel": "Self - The Washington Post 1980 - 2010",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Steve Kerr",
+                "Personagem/Papel": "Self - Bulls Guard 1992 - 1998",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Andrea Kremer",
+                "Personagem/Papel": "Self - ESPN Correspondent 1989 - 2006",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "Deloris Jordan",
+                "Personagem/Papel": "Self - Michael's Mother",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "Bill Wennington",
+                "Personagem/Papel": "Self - Bulls Center 1993 - 1999",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "John Paxson",
+                "Personagem/Papel": "Self - Bulls Guard 1985 - 1994",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "Dennis Rodman",
+                "Personagem/Papel": "Self",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Bob Costas",
+                "Personagem/Papel": "Self - WGN-Chicago 1979 - 1980…",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Ahmad Rashad",
+                "Personagem/Papel": "Self - NBC Sports 1983 - 2002",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Rick Telander",
+                "Personagem/Papel": "Self - Chicago Sun-Times",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "David Stern",
+                "Personagem/Papel": "Self - NBA Commissioner 1984 - 2014",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "B.J. Armstrong",
+                "Personagem/Papel": "Self - Bulls Guard 1989 - 1995",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Jerry Reinsdorf",
+                "Personagem/Papel": "Self - Chicago Bulls Owner",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Sam Smith",
+                "Personagem/Papel": "Self - Chicago Tribune 1979 - 2008",
+                "Quantidade de Episódios": "5"
+            }
+        ]
+    },
+    {
+        "Título": "Rick and Morty",
+        "Ano de estreia": "2013",
+        "Ano de encerramento": "",
+        "Número Total de Episódios": "85",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.0",
+        "Link": "https://www.imdb.com/title/tt2861424/?ref_=chttvtp_t_20",
+        "Popularidade": "81",
+        "Atores": [
+            {
+                "Nome Ator": "Chris Parnell",
+                "Personagem/Papel": "Jerry Smith…",
+                "Quantidade de Episódios": "81"
+            },
+            {
+                "Nome Ator": "Spencer Grammer",
+                "Personagem/Papel": "Summer Smith…",
+                "Quantidade de Episódios": "81"
+            },
+            {
+                "Nome Ator": "Sarah Chalke",
+                "Personagem/Papel": "Beth Smith…",
+                "Quantidade de Episódios": "81"
+            },
+            {
+                "Nome Ator": "Justin Roiland",
+                "Personagem/Papel": "Rick Sanchez…",
+                "Quantidade de Episódios": "61"
+            },
+            {
+                "Nome Ator": "Kari Wahlgren",
+                "Personagem/Papel": "Jessica…",
+                "Quantidade de Episódios": "50"
+            },
+            {
+                "Nome Ator": "Maurice LaMarche",
+                "Personagem/Papel": "Abradolph Lincler…",
+                "Quantidade de Episódios": "34"
+            },
+            {
+                "Nome Ator": "Tom Kenny",
+                "Personagem/Papel": "Gene…",
+                "Quantidade de Episódios": "33"
+            },
+            {
+                "Nome Ator": "Dan Harmon",
+                "Personagem/Papel": "Birdperson…",
+                "Quantidade de Episódios": "32"
+            },
+            {
+                "Nome Ator": "Nolan North",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "30"
+            },
+            {
+                "Nome Ator": "Ryan Ridley",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "30"
+            },
+            {
+                "Nome Ator": "Brandon Johnson",
+                "Personagem/Papel": "Mr. Goldenfold…",
+                "Quantidade de Episódios": "22"
+            },
+            {
+                "Nome Ator": "Ian Cardoni",
+                "Personagem/Papel": "Rick Sanchez",
+                "Quantidade de Episódios": "20"
+            },
+            {
+                "Nome Ator": "Harry Belden",
+                "Personagem/Papel": "Morty Smith…",
+                "Quantidade de Episódios": "20"
+            },
+            {
+                "Nome Ator": "Rob Schrab",
+                "Personagem/Papel": "Tom Randolph…",
+                "Quantidade de Episódios": "18"
+            },
+            {
+                "Nome Ator": "Cassie Steele",
+                "Personagem/Papel": "Tammy…",
+                "Quantidade de Episódios": "16"
+            },
+            {
+                "Nome Ator": "Nick Reczynski",
+                "Personagem/Papel": "Gromflomite Guard #2…",
+                "Quantidade de Episódios": "16"
+            },
+            {
+                "Nome Ator": "Echo Kellum",
+                "Personagem/Papel": "Brad…",
+                "Quantidade de Episódios": "13"
+            },
+            {
+                "Nome Ator": "Eric Bauza",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "12"
+            }
+        ]
+    },
+    {
+        "Título": "The Twilight Zone",
+        "Ano de estreia": "1959",
+        "Ano de encerramento": "1964",
+        "Número Total de Episódios": "156",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.0",
+        "Link": "https://www.imdb.com/title/tt0052520/?ref_=chttvtp_t_21",
+        "Popularidade": "274",
+        "Atores": [
+            {
+                "Nome Ator": "Rod Serling",
+                "Personagem/Papel": "Narrator…",
+                "Quantidade de Episódios": "155"
+            },
+            {
+                "Nome Ator": "Robert McCord",
+                "Personagem/Papel": "Waiter…",
+                "Quantidade de Episódios": "32"
+            },
+            {
+                "Nome Ator": "Jay Overholts",
+                "Personagem/Papel": "Cowboy #2…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "James Turley",
+                "Personagem/Papel": "2nd Fireman…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Vaughn Taylor",
+                "Personagem/Papel": "Mr. Carsville…",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "David Armstrong",
+                "Personagem/Papel": "Passenger…",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Jack Klugman",
+                "Personagem/Papel": "Captain Ross…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Burgess Meredith",
+                "Personagem/Papel": "Henry Bemis…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "John Anderson",
+                "Personagem/Papel": "Capt. 'Skipper' Farver…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "J. Pat O'Malley",
+                "Personagem/Papel": "Gooberman - Town Drunk…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Barney Phillips",
+                "Personagem/Papel": "Capt. E.L. Gunther…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "George Mitchell",
+                "Personagem/Papel": "Dr. Floyd…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Cyril Delevanti",
+                "Personagem/Papel": "Franklin…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Jon Lormer",
+                "Personagem/Papel": "Minister…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Bill Erwin",
+                "Personagem/Papel": "Man…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Nan Peterson",
+                "Personagem/Papel": "Blonde in Bar…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Lew Brown",
+                "Personagem/Papel": "Lieutenant…",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "S. John Launer",
+                "Personagem/Papel": "Lieutenant Colonel…",
+                "Quantidade de Episódios": "4"
+            }
+        ]
+    },
+    {
+        "Título": "The Vietnam War",
+        "Ano de estreia": "2017",
+        "Ano de encerramento": null,
+        "Número Total de Episódios": "10",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.1",
+        "Link": "https://www.imdb.com/title/tt1877514/?ref_=chttvtp_t_22",
+        "Popularidade": "893",
+        "Atores": [
+            {
+                "Nome Ator": "Peter Coyote",
+                "Personagem/Papel": "Self - Narrator",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Huy Duc",
+                "Personagem/Papel": "Self - North Vietnam…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "James Willbanks",
+                "Personagem/Papel": "Self - Army Advisor…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Duong Van Mai Elliott",
+                "Personagem/Papel": "Self - Saigon…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Joachim Król",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Josef Tratnik",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Simon Roden",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Hans-Gerd Kilbinger",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Bernt Hahn",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Ernst August Schepmann",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Renate Fuhrmann",
+                "Personagem/Papel": "Self - Sprecherin",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Robert Steudtner",
+                "Personagem/Papel": "Self - Sprecherin",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Maximilian Hilbrand",
+                "Personagem/Papel": "Self - Sprecher",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "John Musgrave",
+                "Personagem/Papel": "Self - Marines…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Phan Quang Tue",
+                "Personagem/Papel": "Self - Saigon",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Karl Marlantes",
+                "Personagem/Papel": "Self - Marines",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Nguyen Ngoc",
+                "Personagem/Papel": "Self - N. Vietnamese Army…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Bao Ninh",
+                "Personagem/Papel": "Self - N. Vietnamese Army…",
+                "Quantidade de Episódios": "7"
+            }
+        ]
+    },
+    {
+        "Título": "Dexter: Resurrection",
+        "Ano de estreia": "2025",
+        "Ano de encerramento": "",
+        "Número Total de Episódios": "11",
+        "Classificação indicativa": "TV-MA",
+        "Nota do IMDB": "9.2",
+        "Link": "https://www.imdb.com/title/tt33043892/?ref_=chttvtp_t_23",
+        "Popularidade": "5",
+        "Atores": [
+            {
+                "Nome Ator": "Michael C. Hall",
+                "Personagem/Papel": "Dexter Morgan",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Jack Alcott",
+                "Personagem/Papel": "Harrison Morgan",
+                "Quantidade de Episódios": "11"
+            },
+            {
+                "Nome Ator": "Uma Thurman",
+                "Personagem/Papel": "Charley",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "David Zayas",
+                "Personagem/Papel": "Angel Batista",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Ntare Guma Mbaho Mwine",
+                "Personagem/Papel": "Blessing Kamara",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Kadia Saraf",
+                "Personagem/Papel": "Det. Claudette Wallace",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Dominic Fumusa",
+                "Personagem/Papel": "Det. Melvin Oliva",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Emilia Suárez",
+                "Personagem/Papel": "Elsa Rivera",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "James Remar",
+                "Personagem/Papel": "Harry Morgan",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "Peter Dinklage",
+                "Personagem/Papel": "Leon Prater",
+                "Quantidade de Episódios": "10"
+            },
+            {
+                "Nome Ator": "JillMarie Lawrence",
+                "Personagem/Papel": "Constance",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Reese Antoinette",
+                "Personagem/Papel": "Joy",
+                "Quantidade de Episódios": "6"
+            },
+            {
+                "Nome Ator": "Darius Jordan Lee",
+                "Personagem/Papel": "Lance Thomas",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Sharon Hope",
+                "Personagem/Papel": "Prudence Kamara",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Liam Delgado",
+                "Personagem/Papel": "Dante Rivera",
+                "Quantidade de Episódios": "5"
+            },
+            {
+                "Nome Ator": "Eric Stonestreet",
+                "Personagem/Papel": "Al",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Emily Kimball",
+                "Personagem/Papel": "Gigi",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Jason Alan Carvell",
+                "Personagem/Papel": "Stefan Pike",
+                "Quantidade de Episódios": "4"
+            }
+        ]
+    },
+    {
+        "Título": "Sherlock",
+        "Ano de estreia": "2010",
+        "Ano de encerramento": "2017",
+        "Número Total de Episódios": "15",
+        "Classificação indicativa": "TV-14",
+        "Nota do IMDB": "9.0",
+        "Link": "https://www.imdb.com/title/tt1475582/?ref_=chttvtp_t_24",
+        "Popularidade": "146",
+        "Atores": [
+            {
+                "Nome Ator": "Benedict Cumberbatch",
+                "Personagem/Papel": "Sherlock Holmes",
+                "Quantidade de Episódios": "15"
+            },
+            {
+                "Nome Ator": "Martin Freeman",
+                "Personagem/Papel": "Dr. John Watson",
+                "Quantidade de Episódios": "15"
+            },
+            {
+                "Nome Ator": "Una Stubbs",
+                "Personagem/Papel": "Mrs. Hudson",
+                "Quantidade de Episódios": "14"
+            },
+            {
+                "Nome Ator": "Rupert Graves",
+                "Personagem/Papel": "DI Lestrade…",
+                "Quantidade de Episódios": "14"
+            },
+            {
+                "Nome Ator": "Louise Brealey",
+                "Personagem/Papel": "Molly Hooper…",
+                "Quantidade de Episódios": "14"
+            },
+            {
+                "Nome Ator": "Mark Gatiss",
+                "Personagem/Papel": "Mycroft Holmes",
+                "Quantidade de Episódios": "12"
+            },
+            {
+                "Nome Ator": "Andrew Scott",
+                "Personagem/Papel": "Jim Moriarty…",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Amanda Abbington",
+                "Personagem/Papel": "Mary Morstan…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Jonathan Aris",
+                "Personagem/Papel": "Anderson",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Vinette Robinson",
+                "Personagem/Papel": "Sgt Sally Donovan",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Tanya Moodie",
+                "Personagem/Papel": "Ella",
+                "Quantidade de Episódios": "4"
+            },
+            {
+                "Nome Ator": "Lindsay Duncan",
+                "Personagem/Papel": "Lady Smallwood",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Yasmine Akram",
+                "Personagem/Papel": "Janine…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Sian Brooke",
+                "Personagem/Papel": "Elizabeth…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "David Nellist",
+                "Personagem/Papel": "Mike Stamford…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Simon Kunz",
+                "Personagem/Papel": "Sir Edwin",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Wanda Ventham",
+                "Personagem/Papel": "Mrs. Holmes…",
+                "Quantidade de Episódios": "3"
+            },
+            {
+                "Nome Ator": "Timothy Carlton",
+                "Personagem/Papel": "Dad…",
+                "Quantidade de Episódios": "3"
+            }
+        ]
+    },
+    {
+        "Título": "Batman: The Animated Series",
+        "Ano de estreia": "1992",
+        "Ano de encerramento": "1995",
+        "Número Total de Episódios": "85",
+        "Classificação indicativa": "TV-PG",
+        "Nota do IMDB": "9.0",
+        "Link": "https://www.imdb.com/title/tt0103359/?ref_=chttvtp_t_25",
+        "Popularidade": "390",
+        "Atores": [
+            {
+                "Nome Ator": "Kevin Conroy",
+                "Personagem/Papel": "Batman…",
+                "Quantidade de Episódios": "85"
+            },
+            {
+                "Nome Ator": "Loren Lester",
+                "Personagem/Papel": "Robin…",
+                "Quantidade de Episódios": "30"
+            },
+            {
+                "Nome Ator": "Efrem Zimbalist Jr.",
+                "Personagem/Papel": "Alfred Pennyworth…",
+                "Quantidade de Episódios": "54"
+            },
+            {
+                "Nome Ator": "Bob Hastings",
+                "Personagem/Papel": "Commissioner James Gordon…",
+                "Quantidade de Episódios": "48"
+            },
+            {
+                "Nome Ator": "Robert Costanzo",
+                "Personagem/Papel": "Detective Bullock…",
+                "Quantidade de Episódios": "22"
+            },
+            {
+                "Nome Ator": "Mari Devon",
+                "Personagem/Papel": "Summer Gleeson…",
+                "Quantidade de Episódios": "22"
+            },
+            {
+                "Nome Ator": "Mark Hamill",
+                "Personagem/Papel": "The Joker…",
+                "Quantidade de Episódios": "15"
+            },
+            {
+                "Nome Ator": "Richard Moll",
+                "Personagem/Papel": "Two-Face…",
+                "Quantidade de Episódios": "14"
+            },
+            {
+                "Nome Ator": "Lloyd Bochner",
+                "Personagem/Papel": "Mayor Hamilton Hill…",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Arleen Sorkin",
+                "Personagem/Papel": "Harley Quinn…",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "John Vernon",
+                "Personagem/Papel": "Rupert Thorne",
+                "Quantidade de Episódios": "9"
+            },
+            {
+                "Nome Ator": "Adrienne Barbeau",
+                "Personagem/Papel": "Catwoman…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Brock Peters",
+                "Personagem/Papel": "Lucius Fox…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Diane Pershing",
+                "Personagem/Papel": "Poison Ivy…",
+                "Quantidade de Episódios": "8"
+            },
+            {
+                "Nome Ator": "Ingrid Oliu",
+                "Personagem/Papel": "Renee Montoya…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Paul Williams",
+                "Personagem/Papel": "The Penguin…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Neil Ross",
+                "Personagem/Papel": "Additional Voices…",
+                "Quantidade de Episódios": "7"
+            },
+            {
+                "Nome Ator": "Aron Kincaid",
+                "Personagem/Papel": "Killer Croc…",
+                "Quantidade de Episódios": "6"
+            }
+        ]
+    }
+]
