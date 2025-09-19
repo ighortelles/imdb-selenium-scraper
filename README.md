@@ -11,12 +11,12 @@ O objetivo é navegar pela página, extrair informações detalhadas de cada uma
 O script funciona da seguinte forma:
 
 1. Inicializa uma instância do navegador Firefox em modo headless (sem interface gráfica), controlado pelo Selenium.
-2. Acessa o lsite [IMDb](https://www.imdb.com/), navega até a página [Top 250 TV shows](https://www.imdb.com/chart/toptv/?ref_=hm_nv_menu) e extrai a lista com os 250 programas de TV mais bem avaliados.
+2. Acessa o site [IMDb](https://www.imdb.com/), navega até a página [Top 250 TV shows](https://www.imdb.com/chart/toptv/?ref_=hm_nv_menu) e extrai a lista com os 250 programas de TV mais bem avaliados.
 3. Para cada item da lista, processa os metadados básicos (título, ano de estreia e encerramento, número de episódios, classificação indicativa, nota do IMDb e o link para a página de detalhes).
 4. Acessa o link de cada série individualmente para buscar informações adicionais que não estão na lista principal: o ranking de popularidade e o elenco principal.
-5. Consolida todos os dados em uma lista de dicionários e a exporta para um arquivo JSON
+5. Consolida todos os dados em uma lista de dicionários e a exporta para um arquivo `JSON`
 
-O arquivo `top_250_series.json` será gerado no mesmo diretório do script. Cada objeto na lista JSON terá a seguinte estrutura:
+O arquivo `top_250_series.json` será gerado no mesmo diretório do script. Cada objeto na lista `JSON` terá a seguinte estrutura:
 
 ```json
 [
@@ -43,3 +43,48 @@ O arquivo `top_250_series.json` será gerado no mesmo diretório do script. Cada
         ]
     }
 ]
+```
+
+## Configuração e Execução
+
+Siga os passos abaixo para configurar o ambiente e executar o script de coleta de dados.
+
+### Pré-requisitos
+
+Antes de começar, garanta que você tenha os seguintes softwares instalados em seu sistema:
+
+-   **Python 3.8+**: O script foi desenvolvido utilizando Python. Você pode baixá-lo em [python.org](https://www.python.org/downloads/).
+-   **Mozilla Firefox**: O Selenium irá controlar uma instância deste navegador. Faça o download em [firefox.com](https://www.mozilla.org/pt-BR/firefox/new/).
+-   **GeckoDriver**: É o driver que permite ao Selenium se comunicar com o Firefox.
+    -   Faça o download na [página oficial de releases do GeckoDriver](https://github.com/mozilla/geckodriver/releases).
+    -   **Importante**: Após descompactar, adicione o executável `geckodriver` ao PATH do seu sistema.
+
+### Passos para Instalação e Execução
+
+Com os pré-requisitos atendidos, siga as instruções para preparar o projeto.
+
+1. Crie um ambiente virtual
+
+```bash
+python -m venv venv
+```
+
+2. Ative o ambiente virtual
+
+```bash
+source venv/bin/activate
+```
+
+3. Instale os requisitos
+
+```bash
+pip install -r requiriments.txt
+```
+
+4. Execute o arquivo `main.py`
+
+```bash
+python main.py
+```
+
+
