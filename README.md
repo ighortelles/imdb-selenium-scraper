@@ -78,7 +78,7 @@ source venv/bin/activate
 3. Instale os requisitos
 
 ```bash
-pip install -r requiriments.txt
+pip install -r requirements.txt
 ```
 
 4. Execute o arquivo `main.py`
@@ -86,5 +86,3 @@ pip install -r requiriments.txt
 ```bash
 python main.py
 ```
-
-
