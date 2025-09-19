@@ -1,6 +1,10 @@
 # IMDb Top 250 TV Shows Scraper
 
-Este é um script em Python que utiliza a biblioteca Selenium para realizar a coleta de dados (web scraping) da lista de "Top 250 TV Shows" do site [IMDb](https://www.imdb.com/). O script coleta informações detalhadas de cada série, incluindo título, ano de estreia, ano de encerramento, número de episódios, classificação indicativa, nota do imdb, popularidade e elenco, e exporta os dados consolidados para um arquivo JSON.
+Este projeto foi desenvolvido para a atividade "Coleta de Dados com Selenium" da disciplina de **Coleta, Preparação e Análise de Dados**, do curso de **Ciência de Dados e Inteligência Artificial** da PUCRS.
+
+O projeto consiste em um script Python que utiliza a biblioteca Selenium para realizar a coleta de dados (web scraping) da lista "Top 250 TV Shows" do site [IMDb](https://www.imdb.com/).
+
+O objetivo é navegar pela página, extrair informações detalhadas de cada uma das 250 séries e, ao final, consolidar todos os dados em um único arquivo JSON.
 
 ## Funcionalidades
 
