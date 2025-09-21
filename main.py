@@ -36,7 +36,7 @@ def coletar_html_250_series(driver: webdriver.Firefox) -> List[WebElement]:
 
     return lista_series 
 
-def processar_dados(lista_elementos) -> list:
+def processar_dados(lista_elementos: List[WebElement]) -> list:
     '''Processa os metadados a lista de Top 250 TV Shows em uma lista de dicionários.'''
     series = []
     total = len(lista_elementos)
