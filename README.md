@@ -27,7 +27,7 @@ O arquivo `top_250_series.json` será gerado no mesmo diretório do script. Cada
         "Número Total de Episódios": "62",
         "Classificação indicativa": "TV-MA",
         "Nota do IMDB": "9.5",
-        "Link": "[https://www.imdb.com/title/tt0903747/](https://www.imdb.com/title/tt0903747/)",
+        "Link": "https://www.imdb.com/title/tt0903747/",
         "Popularidade": "123",
         "Atores": [
             {
