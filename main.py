@@ -1,10 +1,11 @@
 import json
 import time
 from typing import List
+
 from selenium import webdriver
-from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.remote.webelement import WebElement
 
 
 def iniciar_driver() -> webdriver.Firefox:
@@ -13,6 +14,7 @@ def iniciar_driver() -> webdriver.Firefox:
     options = Options()
     options.add_argument('--headless')
     return webdriver.Firefox(options=options)
+
 
 def coletar_html_250_series(driver: webdriver.Firefox) -> List[WebElement]:
     '''Acessa a url "https://www.imdb.com/" e coleta a lista das Top 250 TV Shows.'''
@@ -36,6 +38,7 @@ def coletar_html_250_series(driver: webdriver.Firefox) -> List[WebElement]:
 
     return lista_series 
 
+
 def processar_dados(lista_elementos: List[WebElement]) -> list:
     '''Processa os metadados a lista de Top 250 TV Shows em uma lista de dicionários.'''
     series = []
@@ -52,11 +55,11 @@ def processar_dados(lista_elementos: List[WebElement]) -> list:
 
         series_dict = {
             'Título': " ".join(serie.find_element(By.CLASS_NAME, 'ipc-title-link-wrapper').text.split()[1:]),
-            'Ano de estreia': data[0],
-            'Ano de encerramento': data[1] if len(data) > 1 else None,
-            'Número Total de Episódios': metadados[1].split()[0],
+            'Ano de estreia': int(data[0]),
+            'Ano de encerramento': int(data[1]) if len(data) > 1 else None,
+            'Número Total de Episódios': int(metadados[1].split()[0]),
             'Classificação indicativa': metadados[2] if len(metadados) > 2 else None,
-            'Nota do IMDB': serie.find_element(By.CLASS_NAME, 'ipc-rating-star--rating').text,
+            'Nota do IMDB': float(serie.find_element(By.CLASS_NAME, 'ipc-rating-star--rating').text.replace(',', '.')),
             'Link': serie.find_element(By.CLASS_NAME, 'ipc-title-link-wrapper').get_attribute("href"),
             'Popularidade': None,
             'Atores': []
@@ -67,10 +70,11 @@ def processar_dados(lista_elementos: List[WebElement]) -> list:
     print()
     return series
 
+
 def coletar_popularidade_elenco(driver: webdriver.Firefox, dados_series: list) -> list:
     '''Acessa cada link de página de cada série e coleta a popularidade e o elenco principais.'''
     print(">> Iniciando coleta de popularidade e atores.")
-    for serie in dados_series:
+    for serie in dados_series[:5]:
         try:
             driver.get(serie['Link'])
             time.sleep(1.5)
@@ -86,7 +90,7 @@ def coletar_popularidade_elenco(driver: webdriver.Firefox, dados_series: list) -
                 ator_dict = {
                     'Nome Ator': metadados[0],
                     'Personagem/Papel': metadados[1] if len(metadados) > 1 else None,
-                    'Quantidade de Episódios': metadados[2].split()[0] if len(metadados) > 2 else None
+                    'Quantidade de Episódios': int(metadados[2].split()[0]) if len(metadados) > 2 else None
                 }
                 
                 serie['Atores'].append(ator_dict)
@@ -98,12 +102,14 @@ def coletar_popularidade_elenco(driver: webdriver.Firefox, dados_series: list) -
     
     return dados_series
 
+
 def exportar_para_json(dados_series: list) -> json:
     print(">> Exportando dados para JSON.")
-    with open('top_250_series.json', "w", encoding='utf8') as file:
+    with open('top_250_series.json_test', "w", encoding='utf8') as file:
         json.dump(dados_series, file, indent=4, ensure_ascii=False)
 
     print("OK | Arquivo JSON exportado com sucesso.")
+
 
 if __name__ == '__main__':
     driver = iniciar_driver()
